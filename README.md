@@ -1,5 +1,5 @@
 # Project-Bank-Account
-This is a group project from school
+This is a group project from school.
 Contributions from each person involved will be found in the comments within the code files
 The instructions for the project were as follows : 
 "
