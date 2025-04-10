@@ -2,7 +2,8 @@
 This is a group project from school
 Contributions from each person involved will be found in the comments within the code files
 The instructions for the project were as follows : 
-"Design a generic class to hold the following information about a bank account:
+"
+Design a generic class to hold the following information about a bank account:
 
     Balance
     Number of deposits this month
